@@ -20,5 +20,5 @@ macro_windows_left: macro_windows_left{
 compatible = "zmk,behavior-macro";
 label = "macro_windows_left";
 #binding-cells = <0>;
-bindings = <&sk LEFT_WIN &sk LSHFT>, <&kp LEFT_ARROW>;
+bindings = <&sk LEFT_WIN>, <&kp LEFT_ARROW>;
 };
