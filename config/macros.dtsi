@@ -8,7 +8,7 @@ macro_window_up: macro_window_up{
 compatible = "zmk,behavior-macro";
 label = "macro_window_up";
 #binding-cells = <0>;
-bindings = <&kp UP_ARROW>;
+bindings = <&kp LEFT_SHIFT>, <&kp B>;
 };
 macro_window_right: macro_window_right{
 compatible = "zmk,behavior-macro";
