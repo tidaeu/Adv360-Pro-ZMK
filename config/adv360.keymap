@@ -89,11 +89,11 @@
 
         layer_Editor {
             bindings = <
- &trans  &trans  &trans   &trans  &trans  &trans            &trans                                                          &trans              &trans            &trans              &trans            &trans               &trans  &trans
- &trans  &trans  &trans   &trans  &trans  &trans            &trans                                                          &trans              &trans            &trans              &trans            &trans               &trans  &trans
- &trans  &trans  &trans  &kp DEL  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &macro_sticky2  &macro_sticky_test  &macro_window_up  &macro_window_down  &macro_window_up  &macro_window_right  &trans
- &trans  &trans  &trans   &trans  &trans  &trans                            &trans                  &trans                                      &trans            &trans              &trans            &trans               &trans  &trans
- &trans  &trans  &trans   &trans  &trans                    &trans  &trans  &trans                  &trans  &trans          &trans                                &trans              &trans            &trans               &trans  &trans
+ &trans  &trans  &trans   &trans  &trans  &trans            &trans                                                  &trans               &trans              &trans            &trans               &trans  &trans  &trans
+ &trans  &trans  &trans   &trans  &trans  &trans            &trans                                                  &trans               &trans              &trans            &trans               &trans  &trans  &trans
+ &trans  &trans  &trans  &kp DEL  &trans  &trans            &trans  &trans  &trans                  &trans  &trans   &none  &macro_windows_left  &macro_window_down  &macro_window_up  &macro_window_right   &none  &trans
+ &trans  &trans  &trans   &trans  &trans  &trans                            &trans                  &trans                               &trans              &trans            &trans               &trans  &trans  &trans
+ &trans  &trans  &trans   &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                                   &trans            &trans               &trans  &trans  &trans
             >;
         };
 
