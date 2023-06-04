@@ -44,7 +44,7 @@
     ], [
        "&trans", "&trans", "&trans",  "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",              "&trans",             "&trans",           "&trans",              "&trans", "&trans",
        "&trans", "&trans", "&trans",  "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",              "&trans",             "&trans",           "&trans",              "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&kp DEL", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&macro_windows_left", "&macro_windows_left", "&macro_window_up", "&macro_window_right", "&trans",
+       "&trans", "&trans", "&trans", "&kp DEL", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&macro_windows_left", "&macro_window_down", "&macro_window_up", "&macro_window_right", "&trans",
        "&trans", "&trans", "&trans",  "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",              "&trans",             "&trans",           "&trans",              "&trans", "&trans",
        "&trans", "&trans", "&trans",  "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                        "&trans",             "&trans",           "&trans",              "&trans", "&trans"
     ]
