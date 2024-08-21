@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_Test_Layer {
+        layer_Media {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans      &trans             &trans           &trans      &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans      &trans             &trans           &trans      &trans  &trans  &trans
@@ -88,7 +88,7 @@
             >;
         };
 
-        layer_5 {
+        layer_Editor {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans               &trans              &trans            &trans               &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans               &trans              &trans            &trans               &trans  &trans  &trans
@@ -98,7 +98,7 @@
             >;
         };
 
-        layer_6 {
+        layer_Utils {
             bindings = <
  &trans  &trans  &trans    &trans  &trans  &trans            &trans                                                  &trans  &trans         &trans       &trans  &trans  &trans  &trans
  &trans  &trans  &trans    &trans  &trans  &trans            &trans                                                  &trans  &trans         &trans       &trans  &trans  &trans  &trans
@@ -109,6 +109,26 @@
         };
 
         layer_7 {
+            bindings = <
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+            >;
+        };
+
+        layer_8 {
+            bindings = <
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+            >;
+        };
+
+        layer_9 {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
